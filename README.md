@@ -1,2 +1,2 @@
 # hello-world
-CS50
+This repository is intended to hold CS50 project information
